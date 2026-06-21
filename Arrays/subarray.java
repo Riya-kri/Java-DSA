@@ -1,5 +1,13 @@
-package apnaCollege;
+/*
+Topic: Arrays
+Problem: Print All Subarrays
 
+Description:
+Generate and print all possible contiguous subarrays of a given array.
+
+Time Complexity: O(n³)
+Space Complexity: O(1)
+*/
 import java.util.Scanner;
 public class subarray {
 
