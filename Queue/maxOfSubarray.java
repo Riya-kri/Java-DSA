@@ -1,9 +1,7 @@
-package apnaCollege;
-import java.util.*;
 //Maximum of all subarrays of size k We have an array arr[] of size N and an integer K.
 //Find the maximum for each and every contiguous subarray of size k. O(n)
 public class maxOfSubarray 
-{//Not Understood
+{
 	public static void printMax(int arr[], int n, int k)
 	{
 		Deque<Integer> dq = new LinkedList<>();
