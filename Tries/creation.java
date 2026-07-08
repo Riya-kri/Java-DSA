@@ -1,5 +1,3 @@
-package lab;
-
 public class creation {
 	static class Node{
 		Node children[] = new Node[26];
