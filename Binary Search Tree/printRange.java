@@ -1,6 +1,3 @@
-package apnaCollege;
-
-import apnaCollege.search.Node;
 public class printRange 
 {
 	public static void print(Node root,int k1,int k2)
