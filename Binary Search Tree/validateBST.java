@@ -1,5 +1,3 @@
-package apnaCollege;
-import apnaCollege.search.Node;
 public class validateBST 
 {
 	public static boolean isValid(Node root,Node min,Node max)
