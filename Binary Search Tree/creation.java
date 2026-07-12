@@ -1,5 +1,3 @@
-package apnaCollege;
-
 public class creation 
 {
 	static class Node{
