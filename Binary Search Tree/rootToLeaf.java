@@ -1,5 +1,3 @@
-package apnaCollege;
-import apnaCollege.search.Node;
 import java.util.*;
 public class rootToLeaf 
 {
