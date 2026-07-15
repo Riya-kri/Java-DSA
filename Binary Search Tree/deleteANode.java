@@ -1,5 +1,3 @@
-package apnaCollege;
-import apnaCollege.search.Node;
 public class deleteANode 
 {
 	public static Node delete(Node root,int val)
