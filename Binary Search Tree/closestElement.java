@@ -1,5 +1,3 @@
-package apnaCollege;
-import apnaCollege.search.Node;
 public class closestElement 
 {
 	static int closest = Integer.MAX_VALUE;
