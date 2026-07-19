@@ -1,5 +1,3 @@
-package apnaCollege;
-import apnaCollege.search.Node;
 public class sortedArrayToBST 
 {
 	public static Node createBST(int array[],int si,int ed)
