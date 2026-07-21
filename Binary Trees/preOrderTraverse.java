@@ -1,5 +1,3 @@
-package apnaCollege;
-public class preOrderTraverse 
 {
 	static class Node
 	{
