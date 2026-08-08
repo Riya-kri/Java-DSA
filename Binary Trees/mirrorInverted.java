@@ -1,5 +1,4 @@
-package apnaCollege;
-import apnaCollege.diameter2OfNodes.Node;
+
 public class mirrorInverted
 {
 	public static void mirror(Node root)
