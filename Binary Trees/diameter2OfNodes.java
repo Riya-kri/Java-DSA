@@ -1,4 +1,4 @@
-package apnaCollege;
+
 public class diameter2OfNodes
 {  // 0(n)
 	static class Node
