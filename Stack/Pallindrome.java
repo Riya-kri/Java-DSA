@@ -1,5 +1,3 @@
-package apnaCollege;
-import java.util.*;
 public class Pallindrome 
 {
 	static class Node
