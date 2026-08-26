@@ -1,7 +1,5 @@
-package apnaCollege;
 class Sampal10
 {
-   //Hard!!
    public static void keypadcombination(String str,int i, String newstr) {
 	   String keypad[] = {".","abc","def","ghi","jkl","mno","pqrs","tu","vwx","yz"};
 	   if(i == str.length()) {
