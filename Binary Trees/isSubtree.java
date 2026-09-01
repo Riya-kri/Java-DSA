@@ -1,4 +1,3 @@
-package apnaCollege;
 public class isSubtree 
 {
 	static class Node
