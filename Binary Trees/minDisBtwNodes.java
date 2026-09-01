@@ -1,5 +1,3 @@
-package apnaCollege;
-import apnaCollege.diameterOfNodes.Node;
 public class minDisBtwNodes 
 {
 	public static Node lca(Node root,int n1, int n2)
